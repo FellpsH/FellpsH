@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fellipe Henrique Babeto</h1>
-<h3 align="center">A passionate FULL Stack developer from Brazil</h3>
+<h3 align="center">I'm FULL Stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on [PokeDex-pokeAPI-node.js](https://github.com/FellpsH/PokeDex-pokeAPI-node.js)
 
