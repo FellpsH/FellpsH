@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fellipe Henrique Babeto</h1>
 <h3 align="center">I'm FULL Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [PokeDex-pokeAPI-node.js](https://github.com/FellpsH/PokeDex-pokeAPI-node.js)
+- 🔭 I’m currently working on [Apsis Tecnologia]([https://github.com/FellpsH/PokeDex-pokeAPI-node.js](https://github.com/SaudeAgora))
 
-- 🌱 I’m currently learning **Next.js, Spring Boot, DEVOPS**
+- 🌱 I’m currently learning **Vue.js, JAVA, Hibernate**
 
 - 📫 How to reach me **fellipehenrique42@yahoo.com.br**
 
