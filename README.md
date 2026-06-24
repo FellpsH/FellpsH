@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Apsis Tecnologia]([https://github.com/FellpsH/PokeDex-pokeAPI-node.js](https://github.com/SaudeAgora))
 
-- 🌱 I’m currently learning **Vue.js, JAVA, Hibernate**
+- 🌱 I’m currently learning **Vue.js, JAVA, JPA**
 
 - 📫 How to reach me **fellipehenrique42@yahoo.com.br**
 
